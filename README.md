@@ -1,3 +1,5 @@
+![Preview Image](maxresdefault (1).jpg)
+
 🥇Solara is a hope
 Unlike other Windows executor, Solara actually works and that too without any lag. Created by your friend quiving and qui and multiple coders who specializes in reverse enginerring
 
